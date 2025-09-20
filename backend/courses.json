@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "cgpa": 3.5,
+      "skills": ["Python", "JavaScript"],
+      "careerGoal": "Full Stack Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "cgpa": 3.8,
+      "skills": ["Machine Learning", "Python", "Statistics"],
+      "careerGoal": "Data Scientist"
+    }
+  ],
+  "careerPaths": {
+    "AI/ML": {
+      "required_skills": ["Python", "Machine Learning", "Data Structures", "Linear Algebra"],
+      "courses": [
+        "Machine Learning by Andrew Ng - Coursera",
+        "Deep Learning Specialization - Coursera",
+        "Intro to Machine Learning - Udacity",
+        "AI for Everyone - edX"
+      ]
+    },
+    "Web Development": {
+      "required_skills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+      "courses": [
+        "The Complete Web Developer Bootcamp - Udemy",
+        "Frontend Development Certification - freeCodeCamp",
+        "React - The Complete Guide - Udemy",
+        "Full-Stack Web Development with React - Coursera"
+      ]
+    },
+    "Mobile Apps": {
+      "required_skills": ["Java", "Kotlin", "Flutter", "React Native"],
+      "courses": [
+        "Android App Development with Kotlin - Udacity",
+        "Flutter Development Bootcamp - Udemy",
+        "React Native - The Practical Guide - Udemy",
+        "iOS & Android App Development - Coursera"
+      ]
+    },
+    "Cybersecurity": {
+      "required_skills": ["Networking", "Python", "Linux", "Cryptography"],
+      "courses": [
+        "Introduction to Cybersecurity - Cisco",
+        "Cybersecurity Fundamentals - edX",
+        "Ethical Hacking Course - Udemy",
+        "Linux for Cybersecurity - Coursera"
+      ]
+    },
+    "Cloud Computing": {
+      "required_skills": ["Linux", "AWS", "Docker", "Kubernetes"],
+      "courses": [
+        "AWS Certified Solutions Architect - Udemy",
+        "Introduction to Cloud Computing - IBM",
+        "Docker & Kubernetes: The Complete Guide - Udemy",
+        "Cloud DevOps Engineer - Udacity"
+      ]
+    }
+  }
+}
+  
